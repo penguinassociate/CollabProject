@@ -1,2 +1,3 @@
+B version
 A version
 new line
