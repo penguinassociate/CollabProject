@@ -1,1 +1,1 @@
-line 46
+conflict\n
