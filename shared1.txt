@@ -1,4 +1,1 @@
-line 1
-new line
-edit A
-case 2 edit
+conflict
